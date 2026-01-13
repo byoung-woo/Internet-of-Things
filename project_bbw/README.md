@@ -70,7 +70,5 @@
 
 ## 발표자료 링크
 
-**중간고사 발표자료 링크** : https://docs.google.com/presentation/d/19rOCNi6Xa49eKWKc6Vw5TiHHeyULtZlM/edit?usp=sharing&ouid=112354704300330329752&rtpof=true&sd=true
-
-**기말고사 발표자료 링크** : https://docs.google.com/presentation/d/1dbF7q2FcFWCUWiOH1jMZaQeUJABF4ct4/edit?usp=sharing&ouid=112354704300330329752&rtpof=true&sd=true
-
+**중간고사 발표자료 링크** : https://drive.google.com/file/d/1fF8S_N89MRtwyPoeMp9MKidV0lh0Kre5/view?usp=sharing
+**기말고사 발표자료 링크** : https://drive.google.com/file/d/1swazky3Do8qoAYGeyYscR3BEbIAYbXWp/view?usp=sharing
