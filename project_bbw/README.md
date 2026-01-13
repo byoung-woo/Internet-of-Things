@@ -68,6 +68,8 @@
 
 ---
 
+## 발표자료 링크
+
 **중간고사 발표자료 링크** : https://docs.google.com/presentation/d/19rOCNi6Xa49eKWKc6Vw5TiHHeyULtZlM/edit?usp=sharing&ouid=112354704300330329752&rtpof=true&sd=true
 
 **기말고사 발표자료 링크** : https://docs.google.com/presentation/d/1dbF7q2FcFWCUWiOH1jMZaQeUJABF4ct4/edit?usp=sharing&ouid=112354704300330329752&rtpof=true&sd=true
